@@ -1,0 +1,153 @@
+{
+    id: "0",
+    question: "Which of the following data connectivity options is the best to use when both availability and reliability is required?",
+    options: [
+        "Wifi",
+        "Blueteeth",
+        "Wired",
+        "Cellular"
+    ],
+    correct: "Wired",
+},
+{
+    id: "2",
+    question: "To reduce the risk of installing unapproved or possibly malicious software on a smartphone, a user should ...",
+    options: [
+        "download apps from a user-friendly community",
+        "update the firmware before downloading any app from anywhere",
+        "utilize the vendor-provided app store",
+    ],
+    correct: "utilize the vendor-provided app store",
+},
+{
+    id: "3",
+    question: "When trying to activate the operating system, a user receives a notice that the software is not genuine. Which of the following security threats has occurred?",
+    options: [
+        "phishing",
+        "license theft",
+        "virus attack",
+    ],
+    correct: "license theft",
+},
+{
+    id:"4",
+    question:"Which of the following tool is used for Wi-Fi hacking?",
+    options: [
+        "Nessus",
+        "Snort",
+        "Aircrack-ng",
+        "Wireshark",
+    ],
+    correct:"Aircrack-ng",
+},
+{
+    id:"5",
+    question:"Which of the following is an example of physical data leakage?",
+    options: [
+        "Phishing",
+        "Dumpster diving",
+        "Printers and photocopies",
+    ],
+    correct:"Phishing",
+},
+{
+    id:"6",
+    question:"Which of the following is th most important activity in your system hacking?",
+    options: [
+        "Information Gathering",
+        "Cracking passwords",
+        "Covering tracks",
+    ],
+    correct:"hacking passwords",
+},
+{
+    id:"7",
+    question:"We should turn a ____ on to protect our computer from hacker(s).",
+    options: [
+        "Script",
+        "Firewall",
+        "Antivirus",
+    ],
+    correct:"Firewall",
+},
+{
+    id:"8",
+    question:"Which of the following is an example of a fishing attack?",
+    options: [
+        "Sending someone an email that contains a malicious link that is disguised to look like an email from someone the person knows",
+        "Creating a fake website that looks nearly identical to a real website in order to trick users into entering their login information",
+        "Sending someone a text message that contains a malicious link that is disguised to look like a notification that the person has won a contest",
+        "All of the above"
+    ],
+    correct:"All of the above",
+},
+{
+    id:"9",
+    question:"A group of computers that is networked together and used by hackers to steal information is called a ___",
+    options: [
+        "Operating System",
+        "DDoS",
+        "Rootkit",
+        "Botnet",
+    ],
+    correct:"Botnet",
+},
+{
+    id:"10",
+    question:"Which of the following four passwords is the most secure?",
+    options: [
+        "Dog123",
+        "123456",
+        "T33ddYB34R4L1f3!!!",
+        "into!89",
+    ],
+    correct:"T33ddYB34R4L1f3!!!",
+},
+{
+    id:"11",
+    question:"If a public Wi-Fi network (such as in an airport or café) requires a password to access, is it generally safe to use that network for sensitive activities such as online banking?",
+    options: [
+        "Yes",
+        "No",
+    ],
+    correct:"No",
+},
+{
+    id:"12",
+    question:"What kind of cybersecurity risks can be minimized by using a Virtual Private Network (VPN)?",
+    options: [
+        "Key-Logging",
+        "Phishing Attacks",
+        "Use of insecure Wifi networks",
+    ],
+    correct:"Use of insecure Wifi networks",
+},
+{
+    id:"13",
+    question:"A website sending you a code to your mobile device before you log in is an example of...",
+    options: [
+        "Antivirus Protection",
+        "Password Encryption",
+        "Two Factor identification",
+    ],
+    correct:"Two Factor identification",
+},
+{
+    id:"14",
+    question:"State whether True or False: Data encryption is used to ensure confidentiality.",
+    options: [
+        "True",
+        "False",
+    ],
+    correct:"True",
+},
+{
+    id:"15",
+    question:"Which of the following statements concerning the firewall is true? ",
+    options: [
+        "It is a barrier created to stop files from hurting the company.", 
+        "It is a tool put in place at a business's perimeter to stop uninvited physical entrance.", 
+        "It is a device placed at an organisation's perimeter to prevent unwanted access.",
+    ],
+    correct:" It is a device placed at an organisation's perimeter to prevent unwanted access.",
+},
